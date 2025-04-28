@@ -1,7 +1,5 @@
 # Lista de Tarefas 📋
 
-**Tecnologias usadas**: `C#` | `.NET` | `Console Application`
-
 Uma aplicação simples de **Lista de Tarefas** desenvolvida em **C#**.  
 Permite adicionar, listar e remover tarefas diretamente pelo console.
 
@@ -13,8 +11,8 @@ Permite adicionar, listar e remover tarefas diretamente pelo console.
 
 ## 🛠 Tecnologias utilizadas
 
-- C#
-- .NET (Aplicação de Console)
+- `C#`
+- `.NET (Aplicação de Console)`
 
 ## 🎯 Como executar o projeto
 
