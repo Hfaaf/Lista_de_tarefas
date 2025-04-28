@@ -9,6 +9,8 @@ Permite adicionar, listar e remover tarefas diretamente pelo console.
 
 - Adicionar nova tarefa
 - Listar tarefas
+- Editar tarefas
+- Concluir tarefas
 - Remover tarefas
 
 ## 🛠 Tecnologias utilizadas
