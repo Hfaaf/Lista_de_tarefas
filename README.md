@@ -1,4 +1,6 @@
 # Lista de Tarefas 📋
+[![.NET](https://img.shields.io/badge/.NET-7.0-blueviolet?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/)
+[![C#](https://img.shields.io/badge/C%23-8A2BE2?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 
 Uma aplicação simples de **Lista de Tarefas** desenvolvida em **C#**.  
 Permite adicionar, listar e remover tarefas diretamente pelo console.
