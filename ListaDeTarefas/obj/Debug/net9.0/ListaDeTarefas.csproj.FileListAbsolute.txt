@@ -1,0 +1,14 @@
+/home/hfaaf/Público/Documentos/Projetos/Console/ListaDeTarefas/ListaDeTarefas/bin/Debug/net9.0/ListaDeTarefas
+/home/hfaaf/Público/Documentos/Projetos/Console/ListaDeTarefas/ListaDeTarefas/bin/Debug/net9.0/ListaDeTarefas.deps.json
+/home/hfaaf/Público/Documentos/Projetos/Console/ListaDeTarefas/ListaDeTarefas/bin/Debug/net9.0/ListaDeTarefas.runtimeconfig.json
+/home/hfaaf/Público/Documentos/Projetos/Console/ListaDeTarefas/ListaDeTarefas/bin/Debug/net9.0/ListaDeTarefas.dll
+/home/hfaaf/Público/Documentos/Projetos/Console/ListaDeTarefas/ListaDeTarefas/bin/Debug/net9.0/ListaDeTarefas.pdb
+/home/hfaaf/Público/Documentos/Projetos/Console/ListaDeTarefas/ListaDeTarefas/obj/Debug/net9.0/ListaDeTarefas.GeneratedMSBuildEditorConfig.editorconfig
+/home/hfaaf/Público/Documentos/Projetos/Console/ListaDeTarefas/ListaDeTarefas/obj/Debug/net9.0/ListaDeTarefas.AssemblyInfoInputs.cache
+/home/hfaaf/Público/Documentos/Projetos/Console/ListaDeTarefas/ListaDeTarefas/obj/Debug/net9.0/ListaDeTarefas.AssemblyInfo.cs
+/home/hfaaf/Público/Documentos/Projetos/Console/ListaDeTarefas/ListaDeTarefas/obj/Debug/net9.0/ListaDeTarefas.csproj.CoreCompileInputs.cache
+/home/hfaaf/Público/Documentos/Projetos/Console/ListaDeTarefas/ListaDeTarefas/obj/Debug/net9.0/ListaDeTarefas.dll
+/home/hfaaf/Público/Documentos/Projetos/Console/ListaDeTarefas/ListaDeTarefas/obj/Debug/net9.0/refint/ListaDeTarefas.dll
+/home/hfaaf/Público/Documentos/Projetos/Console/ListaDeTarefas/ListaDeTarefas/obj/Debug/net9.0/ListaDeTarefas.pdb
+/home/hfaaf/Público/Documentos/Projetos/Console/ListaDeTarefas/ListaDeTarefas/obj/Debug/net9.0/ListaDeTarefas.genruntimeconfig.cache
+/home/hfaaf/Público/Documentos/Projetos/Console/ListaDeTarefas/ListaDeTarefas/obj/Debug/net9.0/ref/ListaDeTarefas.dll
