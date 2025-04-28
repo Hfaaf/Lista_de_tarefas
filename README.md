@@ -6,8 +6,7 @@ Permite adicionar, listar e remover tarefas diretamente pelo console.
 ## 🚀 Funcionalidades
 
 - Adicionar nova tarefa
-- Listar tarefas pendentes
-- Marcar tarefas como concluídas
+- Listar tarefas
 - Remover tarefas
 
 ## 🛠 Tecnologias utilizadas
